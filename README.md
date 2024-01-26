@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 파이썬
+-
 
 |제목|내용|설명|
 |------|---|---|
@@ -27,3 +28,9 @@ You can click the Preview link to take a look at your changes.
 |테스트1|테스트2|테스트3|
 
 R
+-
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
