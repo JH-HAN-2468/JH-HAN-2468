@@ -1,4 +1,6 @@
 경제인문사회 국책연구기관 연구원의 프로그래밍 언어 실습 포트폴리오
+前한국개발연구원 전문연구원
+
 - 👋 Hi, I’m @JH-HAN-2468
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
